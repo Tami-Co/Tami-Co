@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tamar Cohen</h1>
-<h3 align="center">A passionate software developer from Israel</h3>
+<h5 align="center">
+👩‍💻 **Full Stack Developer | Specializing in advanced technologies and building complex systems.**  
+
+I’m Tamar Cohen, a Full Stack Developer with extensive experience in developing advanced web systems using technologies such as Node.js, React, TypeScript, MongoDB, and Docker. Throughout my career, I have worked on diverse projects, including microservices-based systems, API integrations, and optimizing application performance.  
+
+I specialize in writing clean, modular code, solving complex problems, and enhancing software architectures. I am always eager to learn new technologies, tackle challenging problems, and collaborate with talented teams to deliver high-quality solutions.  
+
+💡 I’d love to collaborate on open-source projects or hear about new opportunities.  
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tami-co&label=Profile%20views&color=0e75b6&style=flat" alt="tami-co" /> </p>
 
